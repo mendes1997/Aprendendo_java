@@ -1,0 +1,11 @@
+package flamingo.aprendendo.basico.exercicios.estruturacondicionais;
+
+public class EstruturaCondicionaispt01 {
+    static void main(String[] args)
+        //01. verificar maioridade
+{
+        byte idade = 18;
+        if (idade>= 18) {
+            System.out.println("01: voce é maior de idade.");
+        }
+    }

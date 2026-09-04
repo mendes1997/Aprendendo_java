@@ -1,15 +1,15 @@
 package flamingo.aprendendo.introducao;
 
-/*** Aprendendo a fazer comentario */
+/** Aprendendo a fazer comentarios */
 
 public class Comentario {
-    // Aula com Bigas
-
+    //aula com bigas
     /* Aula
        com
-       Bigas
-    */
-    public static void main (String[] args) {
-        System.out.println("Comentario");
-    }
+       bigas
+     */
+    public static void main(String[] args) {
+
+    System.out.println("comentarios");
+  }
 }
