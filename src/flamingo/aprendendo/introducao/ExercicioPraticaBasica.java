@@ -1,13 +1,16 @@
 package flamingo.aprendendo.introducao;
 
 public class ExercicioPraticaBasica {
-    public static void main(String[] args) {
+    /*
+    eu <nome> morando no <endereço> endereço,confirmo o salario * de salario  na data <data>.
+     * */
+    public  static void main(String[] args) {
         String nome = "wallasy";
-        String endereco = "osasco";
-        double salario = 3500.50;
+        String endereço = "pirituba";
+        double salario = 1500.0;
         String data = "13/08/2026";
 
-        System.out.println("Eu " + nome + " moro na " + endereco + ", e confirmo o R$ " + salario + " na data " + data);
+        System.out.println("Eu" + nome" morando no endereço endereço" + ",confirmo o salario" +
+                " de + salario " +  data " + data");
     }
 }
-

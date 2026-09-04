@@ -1,0 +1,11 @@
+package flamingo.aprendendo.basico.exercicios.estruturacondicionais;
+
+public class Exercicios05 {
+    static void main(String[] args) {
+        //5. verificar desconto
+    {
+    double valorcompra = 120.0;
+    if (valorcompra >= 100){
+        System.out.println("5: cliente ganhou desconto");
+    }
+}
